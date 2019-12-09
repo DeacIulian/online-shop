@@ -12,6 +12,7 @@ public class Cart {
     @MapsId
     private Customer customer;
 
+
     public Long getId() {
         return id;
     }
